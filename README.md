@@ -39,3 +39,15 @@ Response:
     "url": "https://s3.us-east-2.amazonaws.com/compdata.in/CIN/U72502DL2013PTC261372.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAZJFO6I5MK5ARVFL3%2F20210222%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Date=20210222T162255Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=28a8478117c4ec295e655573725d7a83668f4f167ccfd8efad732329a174d0f9"
   }
 ]
+
+
+__________________________________________________________________________________________________
+# Get API USer id And Password:
+visit www.msmeintelligence.in
+Signup -> Login -> Profile (Generate API Key ) -> SUBMIT
+
+API Key : Derived Above
+Password : Account Password
+
+In Case you need any support contact us at +919033024545
+
